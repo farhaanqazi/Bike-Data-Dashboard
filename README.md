@@ -45,6 +45,6 @@ A comprehensive end-to-end data analysis project using **SQL & Power BI** to unc
 If you find this project helpful or have suggestions, feel free to connect!
 
 📧 [Email](mailto:qazifarhaan@email.com)  
-🔗 [LinkedIn](https://linkedin.com/in/farhaanqazi)
+🔗 [LinkedIn](https://linkedin.com/in/farhaanqazi/)
 
 ---
